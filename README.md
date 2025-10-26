@@ -1,3 +1,13 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Shivaraj%20🚀&fontSize=40&fontAlign=50&fontColor=ffffff" />
+</p>
+
+<!-- Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Shivaraj;Working+at+THBS+Org;MQ+ACE+Enthusiast;Always+Learning+%26+Building..." alt="Typing SVG" />
+</h1>
+
 # Shivantu 🚀
 
 ## IBM ACE & MQ Specialist | Middleware Administrator
