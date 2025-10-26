@@ -77,3 +77,9 @@
 ![Shivantu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical)
+
+---
+### 👋 Thanks for Stopping By!
+*"Great having you here! Let's connect and build something amazing together."*
+
+---
