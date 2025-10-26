@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi I'm Shiva%20🚀&fontSize=40&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Shiva%20🚀&fontSize=40&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <!-- Typing Intro -->
