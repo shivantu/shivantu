@@ -55,8 +55,8 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=plastic&logo=elasticstack&logoColor=white)
-![Linux](https://img.shields.io/badge/Chat-GPT-AI-FCC624?style=plastic&logo=linux&logoColor=black)
-![Oracle DB](https://img.shields.io/badge/DeepSeek-AI%20DB-F80000?style=plastic&logo=oracle&logoColor=white) 
+![CHAT-GTP-AI](https://img.shields.io/badge/Chat-GPT-AI-FCC624?style=plastic&logo=linux&logoColor=black)
+![DeepSeek-AI](https://img.shields.io/badge/DeepSeek-AI%20DB-F80000?style=plastic&logo=oracle&logoColor=white) 
 ---
 
 ### **📊 Tech Expertise Radar:**
