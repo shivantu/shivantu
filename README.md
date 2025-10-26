@@ -29,14 +29,40 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
 ---
 
-## 🛠️ Tech Stack
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
-**Middleware & Integration:** IBM ACE IBM MQ 
-**Operating Systems:** Linux Unix RHEL  Shell Bash Scripting
-**Cloud & DevOps:** AWS Docker  Jenkins  Git GitHub AWS
-**Databases & Monitoring:** Oracle MySQL  Prometheus Grafana ELK
-**Web & APIs:** REST SOAP XML JSON ESQL SQL
-**Tools & Platforms:** JIRA Postman SAOP MobXStream
+<p align="center">
+  <!-- Middleware -->
+  ![IBM MQ](https://img.shields.io/badge/IBM%20MQ-%230054E5.svg?style=plastic&logo=ibm&logoColor=white)
+  ![IBM ACE](https://img.shields.io/badge/IBM%20ACE-%230054E5.svg?style=plastic&logo=ibm&logoColor=white)
+  
+  <!-- Cloud -->
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
+  
+  <!-- APIs & Data -->
+  ![REST](https://img.shields.io/badge/REST-API-FF6C37?style=plastic&logo=rest&logoColor=white)
+  ![XML](https://img.shields.io/badge/XML-Data-FF6600?style=plastic&logo=xml&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-Query-4479A1?style=plastic&logo=sql&logoColor=white)
+  
+  <!-- Databases -->
+  ![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=plastic&logo=oracle&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+  
+  <!-- Programming -->
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+  
+  <!-- OS & Linux -->
+  ![RHEL Linux](https://img.shields.io/badge/RHEL%20Linux-EE0000?style=plastic&logo=redhat&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+  
+  <!-- Monitoring -->
+  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
+  ![ELK](https://img.shields.io/badge/ELK%20Stack-005571?style=plastic&logo=elasticstack&logoColor=white)
+</p>
 
 ---
 
