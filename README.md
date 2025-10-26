@@ -76,7 +76,7 @@
 ## 📈 GitHub Stats
 ![Shivantu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true&theme=radical)
 
-![Top Languages]("https://nirzak-streak-stats.vercel.app/?user=ExperimenterX&theme=github_dark&hide_border=true")
+![Top Languages](https://nirzak-streak-stats.vercel.app/?user=ExperimenterX&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical)
 
