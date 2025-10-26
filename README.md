@@ -1,6 +1,6 @@
 # Shivantu 🚀
 
-**IBM ACE & MQ Specialist | Middleware Administrator **
+## IBM ACE & MQ Specialist | Middleware Administrator **
 
 ---
 
