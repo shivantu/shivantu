@@ -60,10 +60,10 @@
 ### 🎯 Tech Expertise Radar
 IBM MQ : ██████████ 100%
 IBM ACE : ██████████ 100%
-Linux : █████████░ 90%
-AWS : ████████░░ 80%
-Automation: ██████████ 100%
-Troubleshooting: ██████████ 100%
+Linux : ██████░░░░ 60%
+AWS : █████░░░░░ 50%
+Automation : █████░░░░░ 50%
+Troubleshooting: ███████░░░ 70%
 
 ## 📈 GitHub Stats
 ![Shivantu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true&theme=radical)
