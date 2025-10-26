@@ -57,6 +57,14 @@
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=plastic&logo=elasticstack&logoColor=white)
 ---
 
+### 🎯 Tech Expertise Radar
+IBM MQ : ██████████ 100%
+IBM ACE : ██████████ 100%
+Linux : █████████░ 90%
+AWS : ████████░░ 80%
+Automation: ██████████ 100%
+Troubleshooting: ██████████ 100%
+
 ## 📈 GitHub Stats
 ![Shivantu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true&theme=radical)
 
