@@ -63,7 +63,7 @@
 🟦 IBM MQ              : ██████████ [Expert]
 🟩 IBM ACE             : ██████████ [Expert] 
 🟨 Linux               : ██████░░░░ [Proficient]
-🟪 Cloud (AWS)         : ██████░░░░ [Proficient]
+🟪 Cloud               : ██████░░░░ [Proficient]
 🟥 Automation          : ██████░░░░ [Proficient]
 🟨 Monitoring/Dashboard: ██████░░░░ [Proficient]
 🟧 Troubleshooting     : ███████░░░ [Advanced]
