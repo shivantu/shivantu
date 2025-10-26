@@ -1,13 +1,14 @@
-![header](https://user-images.githubusercontent.com/your-username/header-image-url) 
+![header](https://user-images.githubusercontent.com/shivantu/header-image-url) 
 # Shivaraj 🚀
 
-**Middleware Admin | IBM MQ & ACE Specialist | Linux Enthusiast**
+**Middleware Admin | IBM MQ & ACE Specialist **
 
 ---
 
 ## 👨‍💻 About Me
 - 💼 Middleware Administrator specializing in **IBM MQ & ACE** environments
 - 🖥️ Experienced in **Linux OS commands**, **RDQM setup**, **MQ HA administration**
+- 👨‍💻 Development  **ACE REST SAOP Application** , **Deployment**, **testing** , **Relaese documnets**
 - 🔧 Skilled in **MQ migration, backup & restore**, **ACE migration & environment setup**
 - 🛠️ Handling **ACE updates, MQ & ACE fix packs**, and enterprise middleware troubleshooting
 - 🌐 Passionate about building **robust messaging platforms** and **integration solutions**
