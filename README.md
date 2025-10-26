@@ -30,7 +30,7 @@
 ---
 
 <!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <p align="center">
   <!-- Middleware -->
