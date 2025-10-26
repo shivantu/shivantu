@@ -83,7 +83,6 @@
 
 ### 🌟 Thanks for Visiting!
 #### ⚡ "Code with passion, deploy with precision"
-#### Great having you here!
 **Let's connect and create something extraordinary!**
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivantu9@gmail.com)
