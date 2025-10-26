@@ -38,7 +38,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=plastic&logo=rest&logoColor=white) 
-![SOAP API](https://img.shields.io/badge/REST-API-FF6C37?style=plastic&logo=rest&logoColor=white)
+![SOAP API](https://img.shields.io/badge/SOAP-API-FF6C37?style=plastic&logo=rest&logoColor=white)
 ![IBM MQ_EXPLORER](https://img.shields.io/badge/IBM%20MQ-%230054E5.svg?style=plastic&logo=ibm&logoColor=white) 
 ![IBM ACE_TOOLKIT](https://img.shields.io/badge/IBM%20ACE-%230054E5.svg?style=plastic&logo=ibm&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-Data-FF6600?style=plastic&logo=xml&logoColor=white)
