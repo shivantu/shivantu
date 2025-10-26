@@ -59,9 +59,6 @@
 ---
 
 ## 📈 GitHub Stats
-![Shivantu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true&theme=radical)
+![Shivantu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivant4u&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical)
-
-### 📊 Contribution Graph
-![Snake Game](https://github.com/shivantu/shivantu/blob/output/github-contribution-grid-snake.svg)
