@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/shivantu/header-image-url) 
+![header](https://user-images.githubusercontent.com/https://github.com/shivantu/header-image-url) 
 # Shivaraj 🚀
 
 **Middleware Admin | IBM MQ & ACE Specialist **
@@ -20,7 +20,7 @@
 **Operating Systems:** Linux (RHEL, Ubuntu), Shell Scripting  
 **Cloud & DevOps Tools:** AWS, Git, GitHub Actions, Jenkins ,ELK
 **Databases:** MySQL, PostgreSQL
-**Programming/Scripting:** BAsh, ESQL,SQL,Java
+**Programming/Scripting:** BAsh, ESQL,SQL,Java,XML,YAML,JSON
 
 ---
 
