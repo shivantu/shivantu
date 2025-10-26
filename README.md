@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Shivaraj%20🚀&fontSize=40&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi I'm Shiva%20🚀&fontSize=40&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <!-- Typing Intro -->
