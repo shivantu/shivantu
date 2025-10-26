@@ -23,16 +23,17 @@
 
 ---
 
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaraj-b)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivantu9@gmail.com)
+
+---
+
 ## 📂 Projects
 - **MQ Monitoring & Automation:** Scripts to monitor MQ queues, channels, and manage alerts
 - **ACE Flow Samples:** Sample BAR files and integration flows for testing deployments
 - **MQ & ACE Migration Toolkit:** Automated backup, restore, and migration scripts
 
----
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaraj-b)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivantu9@gmail.com)
 
 ---
 
