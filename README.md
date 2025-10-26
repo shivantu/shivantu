@@ -1,42 +1,38 @@
-![header](https://user-images.githubusercontent.com/https://github.com/shivantu/header-image-url) 
-# Shivaraj 🚀
+# Shivantu 🚀
 
-**Middleware Admin | IBM MQ & ACE Specialist **
+**IBM ACE & MQ Specialist | Middleware Administrator **
 
 ---
 
 ## 👨‍💻 About Me
-- 💼 Middleware Administrator specializing in **IBM MQ & ACE** environments
-- 🖥️ Experienced in **Linux OS commands**, **RDQM setup**, **MQ HA administration**
-- 👨‍💻 Development  **ACE REST SAOP Application** , **Deployment**, **testing** , **Relaese documnets**
-- 🔧 Skilled in **MQ migration, backup & restore**, **ACE migration & environment setup**
-- 🛠️ Handling **ACE updates, MQ & ACE fix packs**, and enterprise middleware troubleshooting
-- 🌐 Passionate about building **robust messaging platforms** and **integration solutions**
-
----
-
-## 📂 Tech Stack & Tools
-**Middleware & Integration:** IBM MQ, IBM ACE, MQ HA, RDQM, MQ Migration, MQ Backup & Restore, ACE Migration, ACE Env Setup, ACE Updating, Fix Pack Management  
-**Operating Systems:** Linux (RHEL, Ubuntu), Shell Scripting  
-**Cloud & DevOps Tools:** AWS, Git, GitHub Actions, Jenkins ,ELK
-**Databases:** MySQL, PostgreSQL
-**Programming/Scripting:** BAsh, ESQL,SQL,Java,XML,YAML,JSON
+- 💼 Middleware Administrator specializing in **IBM MQ & ACE** setups
+- 🔧 Expert in **MQ migrations, backup & recovery**, **MQ application deployments/Monitoring**
+- 🔧 Expert in **ACE migrations, backup & recovery**, **ACE application DEV|TEST|deployments|Release|Support**
+- 🖥️ Skilled in **Linux/Unix systems**, **MQ RDQM configurations**, **MQ/ACE cluster management**
+- 🛠️ Handling **MQ/ACE fix packs, updates**, and enterprise middleware troubleshooting
+- 🌐 Passionate about building **robust integration platforms** and **automation solutions**
 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaraj-b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivantu9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivantu)
 
 ---
 
-## 📂 Projects
-- **MQ Monitoring & Automation:** Scripts to monitor MQ queues, channels, and manage alerts
-- **ACE Flow Samples:** Sample BAR files and integration flows for testing deployments
-- **MQ & ACE Migration Toolkit:** Automated backup, restore, and migration scripts
+## 🛠️ Tech Stack
 
+**Middleware & Integration:** IBM ACE IBM MQ 
+**Operating Systems:** Linux Unix RHEL  Shell Bash Scripting
+**Cloud & DevOps:** AWS Docker  Jenkins  Git GitHub AWS
+**Databases & Monitoring:** Oracle MySQL  Prometheus Grafana ELK
+**Web & APIs:** REST SOAP XML JSON ESQL SQL
+**Tools & Platforms:** JIRA Postman SAOP MobXStream
 
 ---
 
 ## 📈 GitHub Stats
-![Shivaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Shivantu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical)
