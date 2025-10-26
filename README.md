@@ -79,20 +79,15 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical)
 
 ---
-### 👋 Thanks for Stopping By!
-*"Great having you here! Let's connect and build something amazing together."*
-
----
-
----
 <div align="center">
 
 ### 🌟 Thanks for Visiting!
 #### ⚡ "Code with passion, deploy with precision"
+#### Great having you here!
 **Let's connect and create something extraordinary!**
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivantu9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivaraj-b)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaraj-b)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
