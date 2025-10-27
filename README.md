@@ -76,17 +76,17 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=github_dark&show_icons=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=github_dark&show_icons=true&rank_icon=github&cache_seconds=1800&random=1"
     height="160"
     alt="stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark&hide_border=true&cache_seconds=1800"
     height="160"
     alt="streak"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical&cache_seconds=1800"
     height="160"
     alt="languages"
   />
