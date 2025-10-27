@@ -94,11 +94,6 @@
   />
 </p>
 
-## 📊 More Metrics
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivantu&theme=radical&row=2&column=4" />
-</p>
-
 ---
 <div align="center">
   
