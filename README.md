@@ -73,10 +73,12 @@
 🟪 AI Use              : ███████░░░ [Expert]
 ```
 
+# Hi there, I'm Shivaraj! 👋
+
 ## 📈 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=github_dark&show_icons=true&rank_icon=github&cache_seconds=1800&random=1"
+    src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=github_dark&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=1800"
     height="160"
     alt="stats"
   />
@@ -90,6 +92,11 @@
     height="160"
     alt="languages"
   />
+</p>
+
+## 📊 More Metrics
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivantu&theme=radical&row=2&column=4" />
 </p>
 
 ---
