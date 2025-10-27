@@ -77,12 +77,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=radical&show_icons=true&rank_icon=github"
     height="160"
     alt="stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=radical"
+    src="https://nirzak-streak-stats.vercel.app/?user=shivantu&theme=github_dark&hide_border=true"
     height="160"
     alt="streak"
   />
@@ -92,7 +92,6 @@
     alt="languages"
   />
 </p>
-
 
 ---
 <div align="center">
