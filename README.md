@@ -76,7 +76,7 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=github_dark&show_icons=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=github_dark&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=3600"
     height="160"
     alt="stats"
   />
