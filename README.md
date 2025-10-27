@@ -82,7 +82,7 @@
     alt="stats"
   />
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=shivantu&theme=github_dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=radical&hide_border=false"
     height="160"
     alt="streak"
   />
