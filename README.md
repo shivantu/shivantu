@@ -81,12 +81,12 @@
     alt="stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600"
     height="160"
     alt="streak"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical&count_private=true&include_all_commits=true&cache_seconds=3600"
     height="160"
     alt="languages"
   />
