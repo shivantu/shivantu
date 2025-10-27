@@ -77,12 +77,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=radical&show_icons=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=radical"
     height="160"
     alt="stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=radical&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=radical"
     height="160"
     alt="streak"
   />
