@@ -59,19 +59,19 @@
 ![DeepSeek](https://img.shields.io/badge/DeepSeek%20-F80000?style=plastic&logo=DeepSeek&logoColor=white) 
 ---
 
-### 📊 Tech Expertise
-
-| Skill | Level | Progress |
-|------|-------|---------|
-| IBM MQ | Expert | ██████████ |
-| IBM ACE | Expert | ██████████ |
-| Linux | Proficient | ███████░░░ |
-| Database | Proficient | ███████░░░ |
-| Cloud | Proficient | ███████░░░ |
-| Automation | Proficient | ███████░░░ |
-| Monitoring/Dashboard | Proficient | ███████░░░ |
-| Troubleshooting | Advanced | ████████░░ |
-| AI Use | Expert | ██████████ |
+### **📊 Tech Expertise Radar:**
+<!--START_SECTION:waka-->
+```txt
+🟦 IBM MQ              : ██████████ [Expert]
+🟩 IBM ACE             : ██████████ [Expert] 
+🟥 Linux               : ██████░░░░ [Proficient]
+🟨 DataBase            : ██████░░░░ [Proficient]
+🟪 Cloud               : ██████░░░░ [Proficient]
+🟥 Automation          : ██████░░░░ [Proficient]
+🟨 Monitoring/Dashboard: ██████░░░░ [Proficient]
+🟧 Troubleshooting     : ███████░░░ [Advanced]
+🟪 AI Use              : ███████░░░ [Expert]
+```
 
 ## 📈 GitHub Stats
 <p align="center">
