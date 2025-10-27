@@ -72,9 +72,7 @@
 🟧 Troubleshooting     : ███████░░░ [Advanced]
 🟪 AI Use              : ███████░░░ [Expert]
 ```
-
 ## 📈 GitHub Stats
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=radical&show_icons=true&rank_icon=github"
@@ -82,7 +80,7 @@
     alt="stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=radical&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark&hide_border=true"
     height="160"
     alt="streak"
   />
@@ -92,7 +90,6 @@
     alt="languages"
   />
 </p>
-
 ---
 <div align="center">
 
