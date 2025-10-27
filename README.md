@@ -75,11 +75,21 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <!-- Alternative 1 -->
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=shivantu&show_icons=true" />
-  
-  <!-- Alternative 2 -->
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shivantu" />
+  <img
+    src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=shivantu&show_icons=true&rank_icon=github&cache_seconds=1800&random=1"
+    height="160"
+    alt="stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark&hide_border=true&cache_seconds=1800"
+    height="160"
+    alt="streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical&cache_seconds=1800"
+    height="160"
+    alt="languages"
+  />
 </p>
 
 ---
