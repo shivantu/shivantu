@@ -72,6 +72,7 @@
 🟧 Troubleshooting     : ███████░░░ [Advanced]
 🟪 AI Use              : ███████░░░ [Expert]
 ```
+
 ## 📈 GitHub Stats
 <p align="center">
   <img
@@ -80,7 +81,7 @@
     alt="stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark&cache_seconds=1800"
     height="160"
     alt="streak"
   />
@@ -90,6 +91,7 @@
     alt="languages"
   />
 </p>
+
 ---
 <div align="center">
   
