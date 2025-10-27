@@ -75,28 +75,34 @@
 
 ## 📈 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center">
 
+  <!-- GitHub Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true&theme=radical"
     alt="GitHub Stats"
-    height="170"
+    width="60%"
   />
 
+  <br><br>
+
+  <!-- GitHub Streak -->
   <img
     src="https://nirzak-streak-stats.vercel.app/?user=shivantu&theme=github_dark&hide_border=true"
     alt="GitHub Streak"
-    height="170"
+    width="60%"
   />
 
+  <br><br>
+
+  <!-- Top Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical"
     alt="Top Languages"
-    height="170"
+    width="60%"
   />
 
 </div>
-
 
 ---
 <div align="center">
