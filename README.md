@@ -77,23 +77,22 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true&theme=radical"
-    alt="GitHub Stats"
-    height="160px"
+    src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=radical&show_icons=true&rank_icon=github"
+    height="160"
+    alt="stats"
   />
-
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=shivantu&theme=github_dark&hide_border=true"
-    alt="GitHub Streak"
-    height="160px"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=radical&hide_border=false"
+    height="160"
+    alt="streak"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical"
-    alt="Top Languages"
-    height="160px"
+    height="160"
+    alt="languages"
   />
 </p>
+
 
 ---
 <div align="center">
