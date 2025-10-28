@@ -73,16 +73,11 @@
 🟪 AI Use              : ███████░░░ [Expert]
 ```
 
-## 📊 GitHub Analytics
+## 📈 GitHub Metrics
 
-### 🏆 Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=shivantu&theme=gruvbox" alt="Trophies" />
+![Metrics](https://metrics.lecoq.io/shivantu?template=classic&base.indepth=false&base.hireable=false)
 
-### 📈 Contribution Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=shivantu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" alt="Activity Graph" />
-
-### 🔥 Current Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=blue-green" alt="Streak Stats" />
+![Stats](https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true)
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivantu&theme=react-dark)
