@@ -86,7 +86,7 @@
   alt="streak"
 />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical"
     height="180"
     alt="languages"
   />
