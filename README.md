@@ -90,6 +90,11 @@
     height="160"
     alt="languages"
   />
+    <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shivantu&theme=react-dark"
+    height="160"
+    alt="Activity"
+  />
 </p>
 
 ## 📈 Activity Graph
