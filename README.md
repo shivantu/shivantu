@@ -74,23 +74,12 @@
 ```
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=radical&hide_border=false"
-    height="165"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    height="165"
-  />
-</p>
+![Shivaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=dark&langs_count=8)
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivantu&theme=react-dark)
