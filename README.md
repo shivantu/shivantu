@@ -81,7 +81,7 @@
     alt="stats"
   />
 <img
-  src="https://streak-stats.demolab.com/?user=shivantu&theme=dark"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=radical"
   height="160"
   alt="streak"
 />
