@@ -73,11 +73,22 @@
 🟪 AI Use              : ███████░░░ [Expert]
 ```
 
-## 📈 GitHub Metrics
+## 📊 GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/shivantu?template=classic&base.indepth=false&base.hireable=false)
+### 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=shivantu&theme=onedark)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true)
+### 📈 Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivantu&theme=react-dark)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=shivantu&theme=dark)
+
+### 📊 Profile Stats
+![Shivaraj's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shivantu&show_icons=true&theme=vision-friendly-dark)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=vision-friendly-dark)
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivantu&theme=react-dark)
