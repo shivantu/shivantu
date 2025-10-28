@@ -81,10 +81,10 @@
     alt="stats"
   />
 <img
-  src="https://streak-stats.demolab.com/?user=shivantu&theme=dark"
+  src="https://github-readme-streak-stats.vercel.app/?user=shivantu"
   height="160"
   alt="streak"
-  />
+/>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical&cache_seconds=1800"
     height="190"
