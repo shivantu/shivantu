@@ -80,10 +80,10 @@
     height="160"
     alt="stats"
   />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark"
-    height="160"
-    alt="streak"
+<img
+  src="https://streak-stats.demolab.com/?user=shivantu&theme=dark"
+  height="160"
+  alt="streak"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical&cache_seconds=1800"
