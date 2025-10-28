@@ -81,7 +81,7 @@
     alt="stats"
   />
 <img
-  src="https://github-readme-streak-stats.vercel.app/?user=shivantu"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=radical"
   height="160"
   alt="streak"
 />
