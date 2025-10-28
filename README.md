@@ -75,21 +75,11 @@
 
 ## 📈 GitHub Stats
 
-### Primary Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&random=999" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark&random=999" height="160" />
-</p>
+## 🏆 GitHub Profile Trophy
+![Trophy](https://github-profile-trophy.vercel.app/?username=shivantu&theme=radical&no-frame=true)
 
-### Language Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical&random=999" height="160" />
-</p>
-
-### Additional Metrics
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivantu&theme=radical&row=2&column=4" />
-</p>
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivantu&theme=react-dark)
 
 ---
 <div align="center">
