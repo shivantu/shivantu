@@ -81,7 +81,7 @@
     alt="stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark&cache_seconds=1800"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark"
     height="160"
     alt="streak"
   />
