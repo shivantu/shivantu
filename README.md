@@ -75,21 +75,14 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=github_dark&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=1800&random=12345"
-    height="160"
-    alt="stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark&cache_seconds=1800&random=12345"
-    height="160"
-    alt="streak"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical&cache_seconds=1800&random=12345"
-    height="160"
-    alt="languages"
-  />
+  <!-- Option 1: Different API -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  
+  <!-- Option 2: Alternative service -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivantu&theme=github_dark" />
+  
+  <!-- Option 3: Activity graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=shivantu&theme=github" />
 </p>
 
 ---
