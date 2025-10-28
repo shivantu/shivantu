@@ -74,15 +74,21 @@
 ```
 
 ## 📈 GitHub Stats
+
+### Primary Stats
 <p align="center">
-  <!-- Option 1: Different API -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  
-  <!-- Option 2: Alternative service -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivantu&theme=github_dark" />
-  
-  <!-- Option 3: Activity graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=shivantu&theme=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivantu&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&random=999" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark&random=999" height="160" />
+</p>
+
+### Language Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical&random=999" height="160" />
+</p>
+
+### Additional Metrics
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivantu&theme=radical&row=2&column=4" />
 </p>
 
 ---
