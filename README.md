@@ -87,12 +87,12 @@
 />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical&cache_seconds=1800"
-    height="190"
+    height="180"
     alt="languages"
   />
     <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=shivantu&theme=react-dark"
-    height="190"
+    height="180"
     alt="Activity"
   />
 </p>
