@@ -73,22 +73,24 @@
 🟪 AI Use              : ███████░░░ [Expert]
 ```
 
-## 📊 GitHub Stats
-
-### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=shivantu&theme=onedark)
-
-### 📈 Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivantu&theme=react-dark)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=shivantu&theme=dark)
-
-### 📊 Profile Stats
-![Shivaraj's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shivantu&show_icons=true&theme=vision-friendly-dark)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=vision-friendly-dark)
+## 📈 GitHub Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivantu&show_icons=true&theme=vision-friendly-dark"
+    height="160"
+    alt="stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=github_dark&cache_seconds=1800"
+    height="160"
+    alt="streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical&cache_seconds=1800"
+    height="160"
+    alt="languages"
+  />
+</p>
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivantu&theme=react-dark)
