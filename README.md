@@ -20,7 +20,7 @@
 - 🖥️ Expert in **MQ RDQM SetUp and configurations**, **MQ Migration And cluster management**
 - 🛠️ Handling **MQ/ACE fix packs, updates**, and enterprise middleware **troubleshooting**
 - 🖥️ Skilled in **Linux/Unix systems**, **Oracle/MySQL Database**, **MQ/ACE cluster management**
-- ☁️ knowledge on **AWS EC2, VPC, Security Groups, IAM, S3 Storage, Load Balancer, EFS, Snapshots, and monitoring**
+- ☁️ knowledge on **AWS EC2, VPC, Security Groups, IAM, S3 Storage, Snapshots, and monitoring**
 - 🔄 experience with **Git/GitHub, Jenkins, Docker, basic Kubernetes**, CI/CD & automation workflows
 - 🌐 Passionate about building **robust integration platforms** and **automation solutions**
 
