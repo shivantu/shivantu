@@ -1,119 +1,197 @@
+<!-- ============================================================ -->
+<!--  SHIVARAJ B · GitHub Profile README                          -->
+<!-- ============================================================ -->
+
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SHIVARAJ%20🚀&fontSize=40&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:36BCF7&height=220&section=header&text=Hi%20There,%20I'm%20Shivaraj%20👋&fontSize=38&fontAlign=50&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=IBM%20MQ%20%26%20ACE%20Specialist%20%7C%20Middleware%20Administrator&descAlign=50&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <!-- Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Shiva;Working+at+THBS;MQ+ACE+Specialist;AI+Cloud+Enthusiast;Always+Learning+%26+Building..." alt="Typing SVG" />
-</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Middleware+Administrator+%40+THBS;IBM+MQ+%7C+IBM+ACE+Specialist;Cloud+%26+Automation+Enthusiast;Building+Reliable+Integration+Platforms;Always+Learning+%26+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</h3>
 
-
-**IBM ACE & MQ Specialist | Middleware Administrator**
-
----
-
-## 👨‍💻 About Me
-- 💼 Middleware Administrator specializing in **IBM MQ & ACE** setups
-- 🔧 Expert in **MQ migrations, backup & recovery**, **MQ application deployments/Monitoring**
-- 🔧 Expert in **ACE migrations, backup & recovery**, **ACE application DEV|TEST|deployments|Release|Support**
-- 🖥️ Expert in **MQ RDQM SetUp and configurations**, **MQ Migration And cluster management**
-- 🛠️ Handling **MQ/ACE fix packs, updates**, and enterprise middleware **troubleshooting**
-- 🖥️ Skilled in **Linux/Unix systems**, **Oracle/MySQL Database**, **MQ/ACE cluster management**
-- ☁️ knowledge on **AWS EC2, VPC, Security Groups, IAM, S3 Storage, Snapshots, and monitoring**
-- 🔄 experience with **Git/GitHub, Jenkins, Docker, basic Kubernetes**, CI/CD & automation workflows
-- 🌐 Passionate about building **robust integration platforms** and **automation solutions**
-
----
-
-## 📫 Where to find me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivantu9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivantu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaraj-b)  
----
-
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
-
-![IBM MQ](https://img.shields.io/badge/IBM%20MQ-%230054E5.svg?style=plastic&logo=ibm&logoColor=white) 
-![IBM ACE](https://img.shields.io/badge/IBM%20ACE-%230054E5.svg?style=plastic&logo=ibm&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=plastic&logo=rest&logoColor=white) 
-![SOAP API](https://img.shields.io/badge/SOAP-API-FF6C37?style=plastic&logo=rest&logoColor=white)
-![IBM MQ_EXPLORER](https://img.shields.io/badge/IBM%20MQ%20EXPLORER-%230054E5.svg?style=plastic&logo=ibm&logoColor=white) 
-![IBM ACE_TOOLKIT](https://img.shields.io/badge/IBM%20ACE%20TOOLKIT-%230054E5.svg?style=plastic&logo=ibm&logoColor=white)
-![XML](https://img.shields.io/badge/XML-Data-FF6600?style=plastic&logo=xml&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Query-4479A1?style=plastic&logo=sql&logoColor=white) 
-![ESQL](https://img.shields.io/badge/ESQL-IBM-054ADA?style=plastic&logo=ibm&logoColor=white)
-![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6C37?style=plastic&logo=postman&logoColor=white)
-![SOAP UI](https://img.shields.io/badge/SOAP-UI-FF6C37?style=plastic&logo=soap&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-4479A1?style=plastic&logo=github&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-054ADA?style=plastic&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-EE0000?style=plastic&logo=docker&logoColor=white) 
-![Devops](https://img.shields.io/badge/Devops-FCC624?style=plastic&logo=devops&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
-![RHEL Linux](https://img.shields.io/badge/RHEL%20Linux-EE0000?style=plastic&logo=redhat&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
-![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=plastic&logo=oracle&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=plastic&logo=elasticstack&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-FCC624?style=plastic&logo=chatgpt&logoColor=black)
-![DeepSeek](https://img.shields.io/badge/DeepSeek%20-F80000?style=plastic&logo=deepseek&logoColor=white) 
----
-
-### **📊 Tech Expertise Radar:**
-<!--START_SECTION:waka-->
-```txt
-🟦 IBM MQ              : ██████████ [Expert]
-🟩 IBM ACE             : ██████████ [Expert] 
-🟥 Linux               : ██████░░░░ [Proficient]
-🟨 DataBase            : ██████░░░░ [Proficient]
-🟪 Cloud               : ██████░░░░ [Proficient]
-🟥 Automation          : ██████░░░░ [Proficient]
-🟨 Monitoring/Dashboard: ██████░░░░ [Proficient]
-🟧 Troubleshooting     : ███████░░░ [Advanced]
-🟪 AI Use              : ███████░░░ [Expert]
-```
-
-## 📈 GitHub Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivantu&show_icons=true&theme=vision-friendly-dark"
-    height="160"
-    alt="stats"
-  />
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=radical"
-  height="160"
-  alt="streak"
-/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical"
-    height="180"
-    alt="languages"
-  />
-    <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shivantu&theme=react-dark"
-    height="180"
-    alt="Activity"
-  />
+  <a href="https://www.linkedin.com/in/shivaraj-b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shivantu9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shivantu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shivantu&style=for-the-badge&color=36BCF7&label=Profile+Views" />
 </p>
 
 ---
+
+### 🧭 About Me
+
+```yaml
+name: Shivaraj B
+role: Middleware Administrator (IBM MQ & ACE Specialist)
+company: THBS
+focus:
+  - IBM MQ & ACE architecture, migrations, and HA/DR setups
+  - Backup & recovery, cluster management, RDQM configuration
+  - Application deployment, release management, and production support
+  - Cloud (AWS/Azure) integration for enterprise middleware
+  - Automation-first mindset — CI/CD, scripting, monitoring
+currently_exploring:
+  - AI-assisted operations & tooling
+  - Kubernetes for middleware workloads
+fun_fact: "Code with passion, deploy with precision ⚡"
+```
+
+---
+
+### 🛠️ What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📨 IBM MQ**
+- Installation, migration & version upgrades
+- RDQM setup, cluster management & HA/DR
+- Backup, recovery & disaster recovery drills
+- Application deployment & continuous monitoring
+- Fix pack / patch management & troubleshooting
+
+</td>
+<td width="50%" valign="top">
+
+**🔗 IBM App Connect Enterprise (ACE)**
+- ACE migrations, backup & recovery
+- Dev → Test → Deploy → Release pipelines
+- Production support & incident resolution
+- REST / SOAP API integration & troubleshooting
+- ESQL, message flow design & performance tuning
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**☁️ Cloud & Infrastructure**
+- AWS: EC2, VPC, Security Groups, IAM, S3, Snapshots
+- Linux/Unix (RHEL) system administration
+- Oracle / MySQL database management
+- Monitoring: Prometheus, Grafana, ELK Stack
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ DevOps & Automation**
+- Git/GitHub, Jenkins pipelines
+- Docker & basic Kubernetes
+- Bash scripting & workflow automation
+- CI/CD for middleware deployments
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Tech Stack
+
+**Middleware & Integration**
+
+![IBM MQ](https://img.shields.io/badge/IBM%20MQ-0054E5?style=flat-square&logo=ibm&logoColor=white)
+![IBM ACE](https://img.shields.io/badge/IBM%20ACE-0054E5?style=flat-square&logo=ibm&logoColor=white)
+![MQ Explorer](https://img.shields.io/badge/MQ%20Explorer-0054E5?style=flat-square&logo=ibm&logoColor=white)
+![ACE Toolkit](https://img.shields.io/badge/ACE%20Toolkit-0054E5?style=flat-square&logo=ibm&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
+![SOAP API](https://img.shields.io/badge/SOAP%20API-FF6C37?style=flat-square&logo=xml&logoColor=white)
+![ESQL](https://img.shields.io/badge/ESQL-054ADA?style=flat-square&logo=ibm&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![RHEL Linux](https://img.shields.io/badge/RHEL%20Linux-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+**Databases & Query**
+
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)
+
+**DevOps, Monitoring & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6CC04A?style=flat-square&logo=soapui&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**AI Tools**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-536AF5?style=flat-square)
+
+---
+
+### 📊 Expertise Radar
+
+```text
+IBM MQ                  ██████████  Expert
+IBM ACE                 ██████████  Expert
+Troubleshooting          █████████░  Advanced
+AI-Assisted Ops           █████████░  Advanced
+Linux / Unix               ███████░░░  Proficient
+Databases                    ███████░░░  Proficient
+Cloud (AWS/Azure)             ███████░░░  Proficient
+Automation / CI-CD             ███████░░░  Proficient
+Monitoring & Dashboards          ███████░░░  Proficient
+```
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivantu&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shivantu&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantu&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=shivantu&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivantu&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 <div align="center">
-  
-### 🌟 Thanks for Visiting!
-#### ⚡ "Code with passion, deploy with precision"
-**Let's connect and create something extraordinary!**
+
+### 🌟 Let's Connect
+
+**"Code with passion, deploy with precision."**
+
+Always happy to talk middleware architecture, automation, or cloud integration — reach out anytime!
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivantu9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaraj-b)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaraj-b)
+[![GitHub](https://img.shields.io/badge/🐙_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivantu)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0F2027&height=120&section=footer" width="100%"/>
 
 </div>
